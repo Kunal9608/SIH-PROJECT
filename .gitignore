@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Model folders (large files)
+models/
+bert_email_model/
+data/
+
+# VSCode
+.vscode/
+
+# Temp / cache
+*.log
+*.tmp
+*.DS_Store
+
+# Node (if extension folder has JS/TS)
+extension/node_modules/
